@@ -3,15 +3,15 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:50567",
-      "sslPort": 44354
+      "applicationUrl": "http://localhost:6645",
+      "sslPort": 44367
     }
   },
   "profiles": {
     "dotnet_nextjs_test": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7024;http://localhost:5211",
+      "applicationUrl": "https://localhost:7266;http://localhost:5184",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.SpaProxy"
